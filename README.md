@@ -1,2 +1,11 @@
 # nextjs2024webpack
-nextjs setup with sass, typescript
+Nextjs setup with sass, Typescript
+
+
+# install
+
+npm install
+
+# run 
+
+npm run dev
