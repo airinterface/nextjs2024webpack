@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Next.js app that, as of 2024, includes the following features. The main idea behind creating it was to strip out what I don't need and ensure I have the core functionality to start with.
+
+
+
+```
+- eslint,
+- test,
+- webpack,
+- typescript  with alias support 
+```
+
+
 
 ## Getting Started
 
